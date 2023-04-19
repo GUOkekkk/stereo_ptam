@@ -1,4 +1,5 @@
-# stereo_ptam
+# stereo_ptam 
+### TODO
 
 This python project is a complete implementation of Stereo PTAM, based on C++ project [lrse/sptam](https://github.com/lrse/sptam) and paper "[S-PTAM: Stereo Parallel Tracking and Mapping](http://webdiis.unizar.es/~jcivera/papers/pire_etal_ras17.pdf) Taihu Pire et al. RAS17", with some modifications.   
 
